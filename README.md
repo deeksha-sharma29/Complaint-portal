@@ -28,9 +28,6 @@ Add email/SMS notifications
 Worker rating system
 Export complaint history reports
 Integrate maps for complaint location
-📫 Contact Us
-GitHub: @krishnapschauhan
-Email: krishnachauhan09875@gmail.com
 📎 License
 This project is for educational purposes and currently not under any license.
 
